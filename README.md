@@ -1,18 +1,20 @@
 # OpenTKL
 
 Fully open souce TKL keyboard project
-![Alt text](Renders/OpenTKL.61.png?raw=true)
+![Alt text](Renders/OpenTKLv2_double.png?raw=true)
 
 Use as a base for your own designs, renders or order as is (read important info at the bottom).
 
 Details:
  - F13 TKL layout supporting ANSI, ISO, stepped and normal CAPS, Split right shift, and split backspace.
- - Custom plate with tons of flext and acoustic cuts using TGR Jane V2ce-ish mount points.
- - 3 optional internal weight pieces can be filled with foam for dampening or metal for more heft.
- - 7 degree typing angle.
+ - Custom plate with tons of flex and acoustic cuts using TGR Jane V2ce-ish mount points.
+ - Back weight with a small engraving in the corner
+ - 6.9 degree typing angle.
+ - Internal silicone dampener pad under the alphas for acoustics
+ - Internal ridges in the case for acoustics and pcb support so the switches don't short into the case on more flexible plastic plates
  - Flush USB-C connector built into the PCB, no need for a daughterboard (though the PCB supports it).
  - Skuf feet.
- - Countersunk m3 screws for everything except the plate (that uses m2.5).
+ - M3 screws for everything except the plate which still uses m2.5
 
 
 Important Info (READ BEFORE ORDERING):
