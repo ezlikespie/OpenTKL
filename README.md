@@ -9,9 +9,11 @@ Details:
  - F13 TKL layout supporting ANSI, ISO, stepped and normal CAPS, Split right shift, and split backspace.
  - Custom plate with tons of flex and acoustic cuts using TGR Jane V2ce-ish mount points.
  - Back weight with a small engraving in the corner
+ ![Alt text](Renders/opentklv2.74.png?raw=true)
  - 6.9 degree typing angle.
  - Internal silicone dampener pad under the alphas for acoustics
  - Internal ridges in the case for acoustics and pcb support so the switches don't short into the case on more flexible plastic plates
+ ![Alt text](Renders/opentklv2.75.png?raw=true)
  - Flush USB-C connector built into the PCB, no need for a daughterboard (though the PCB supports it).
  - Skuf feet.
  - M3 screws for everything except the plate which still uses m2.5
